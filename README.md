@@ -41,7 +41,7 @@ pip install pandas seaborn plotly geopandas matplotlib
 ## Setup ⚙️
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your_username/exploratory-data-analysis-los-angeles-crime.git
+   git clone https://github.com/dharmendradiwaker/Exploratory-Data-Analysis-of-Los-Angeles-Crime-Data-.git
    ```
 
 2. Navigate to the project folder:
